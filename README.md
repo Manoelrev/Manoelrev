@@ -1,7 +1,7 @@
 # Olá, me chamo Manoel! 🚀
 ### Olá seres humanos, me chamo Manoel, tenho 19 anos, tenho interesse em jogos, músicas e programação, estou me focando para me tornar um profissional na área de back-end.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoelRev&bg_color=191919&hide_border=true&border_radius=5&title_color=FFDC4F&text_color=c8c8c8)
+![ManoelRev's Stats](https://github-readme-stats.vercel.app/api?username=ManoelRev&theme=dark&show_icons=true&hide_border=false&count_private=false)
 ### 🛠 Habilidades
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,9 +13,10 @@
 
 #### Linguagens que eu possuo algum dominio:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelRev&layout=compact&bg_color=191919&hide_border=true&border_radius=5&title_color=FFDC4F&text_color=c8c8c8)
+![ManoelRev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelRev&theme=dark&show_icons=true&hide_border=false&layout=compact)
 ## ♟️ Alguns dos meus projetos
 
-![chess_java](https://github-readme-stats.vercel.app/api/pin/?username=ManoelRev&repo=chess_java&bg_color=191919&hide_border=true&border_radius=5&title_color=FFDC4F&text_color=c8c8c8)
-![hotel_alura_challegens](https://github-readme-stats.vercel.app/api/pin/?username=ManoelRev&repo=hotel_alura_challegens&bg_color=191919&hide_border=true&border_radius=5&title_color=FFDC4F&text_color=c8c8c8)
-![Barbearia-Alura](https://github-readme-stats.vercel.app/api/pin/?username=ManoelRev&repo=Barbearia-Alura&bg_color=191919&hide_border=true&border_radius=5&title_color=FFDC4F&text_color=c8c8c8)
+![chess_java](https://github-readme-stats.vercel.app/api/pin/?username=ManoelRev&repo=clone_monster_cat&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![chess_java](https://github-readme-stats.vercel.app/api/pin/?username=ManoelRev&repo=chess_java&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![hotel_alura_challegens](https://github-readme-stats.vercel.app/api/pin/?username=ManoelRev&repo=hotel_alura_challegens&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![Barbearia-Alura](https://github-readme-stats.vercel.app/api/pin/?username=ManoelRev&repo=Barbearia-Alura&theme=dark&show_icons=true&hide_border=false&layout=compact)
